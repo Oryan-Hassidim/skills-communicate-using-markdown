@@ -8,3 +8,9 @@
 lst
 |> List.filter (fun i -> i > 11)
 ```
+
+## Task List
+
+- [ ] Item 1
+- [x] Item 2
+- [ ] Item 3
